@@ -15,7 +15,7 @@ Security card games help train your skills for various areas of security, let di
 
 ## Application Security
 
-- [Cornucopia](https://www.owasp.org/index.php/OWASP_Cornucopia) - A card game based on OWASP's Top 10 (authentication, data Validation, ...). The [card deck](https://www.owasp.org/images/7/71/Owasp-cornucopia-ecommerce_website.pdf) is available as PDF from OWASP.
+- [Cornucopia](https://www.owasp.org/index.php/OWASP_Cornucopia) - A card game based on OWASP's Top 10 (authentication, data Validation etc.). The [card deck](https://www.owasp.org/images/7/71/Owasp-cornucopia-ecommerce_website.pdf) is available as PDF from OWASP.
 
 ## Cryptography
 
