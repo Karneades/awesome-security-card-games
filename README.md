@@ -1,10 +1,8 @@
-# Awesome Security Card Games
+# Awesome Security Card Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An curated list of security card games (which are sometimes known as tabletop exercises) which help train your skills for various areas of security.
+> A curated list of security card games (which are sometimes known as tabletop exercises) which help train your skills for various areas of security.
 
-## Content
-
-<!-- vim-markdown-toc GFM -->
+## Contents
 
 * [Application Security](#application-security)
 * [Cryptography](#cryptography)
@@ -12,8 +10,6 @@ An curated list of security card games (which are sometimes known as tabletop ex
 * [Incident Response](#incident-response)
 * [Threat Modeling](#threat-modeling)
 * [Various Resources](#various-resources)
-
-<!-- vim-markdown-toc -->
 
 ## Application Security
 
@@ -52,3 +48,7 @@ An curated list of security card games (which are sometimes known as tabletop ex
 * [Tabletop Security Games & Cards](https://adam.shostack.org/games.html) - An awesome list of security card games
   created and maintained by Adam Shostack.
 * [Tabletop Simulations to Improve Your Information Security Program](https://redcanary.com/blog/using-tabletop-simulations-to-improve-information-security/) - Red Canary's write-up about tabletop exercises.
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
