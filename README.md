@@ -36,7 +36,7 @@ Security card games help train your skills for various areas of security, let di
 
 ## Threat Modeling
 
-- [Elevation of Privilege (EOP) by Microsoft](https://web.archive.org/web/20150312215303/http://www.microsoft.com/security/sdl/adopt/eop.aspx) - A card game based on Microsoft's threat modeling framework "STRIDE" (Spoofing, Tampering, ...). The [card deck](https://www.microsoft.com/en-us/download/details.aspx?id=20303) is available as PDF from Microsoft. Adam Shostack, the author of EoP has also a [git repo](https://github.com/adamshostack/eop/) for EoP.
+- [Elevation of Privilege (EOP) by Microsoft](https://web.archive.org/web/20150312215303/http://www.microsoft.com/security/sdl/adopt/eop.aspx) - A card game based on Microsoft's threat modeling framework "STRIDE" (Spoofing, Tampering etc.). The [card deck](https://www.microsoft.com/en-us/download/details.aspx?id=20303) is available as PDF from Microsoft. Adam Shostack, the author of EoP has also a [git repo](https://github.com/adamshostack/eop/) for EoP.
 - [Security Cards](http://securitycards.cs.washington.edu/index.html) - A card game encouraging to think broadly and creatively about computer security threats. Explore with 42 cards along 4 dimensions (suits): Human Impact, Adversary's Motivations, Adversary's Resources, Adversary's Methods.
 
 ## Various Resources
