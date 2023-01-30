@@ -2,7 +2,7 @@
 
 > A curated list of security card games (which are sometimes known as tabletop exercises).
 
-Security card games help train your skills for various areas of security, let discuss technical topics while playing a game.
+Security card games help train your skills and enable discussions for various areas of security.
 
 ## Contents
 
