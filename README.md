@@ -41,8 +41,9 @@ Security card games help train your skills and enable discussions for various ar
 
 ## Various Resources
 
-- [Tabletop Security Games & Cards](https://adam.shostack.org/games.html) - An awesome list of security card games created and maintained by Adam Shostack.
+- [Tabletop Security Games & Cards](https://adam.shostack.org/games.html) - List of security card games created and maintained by Adam Shostack.
 - [Tabletop Simulations to Improve Your Information Security Program](https://redcanary.com/blog/using-tabletop-simulations-to-improve-information-security/) - Red Canary's write-up about tabletop exercises for information security programs.
+- [Game On: Tabletop Games to Teach Cyber and Information Security Concepts](https://www.linkedin.com/pulse/game-tabletop-games-teach-cyber-information-security-mike-mcgannon) - List of tabletop games to teach cyber and information security concepts.
 
 ## Contributing
 
