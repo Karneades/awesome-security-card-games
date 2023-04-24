@@ -32,7 +32,7 @@ Security card games help train your skills and enable discussions for various ar
 ## Incident Response
 
 - [Backdoors & Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/) - An incident response card game, it and contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
-- [Defensomania](https://github.com/Karneades/Defensomania) - A incident response card game for security monitoring and incident response teams. It consists of over 150 cards, most of them are incident response activities and over 30 attack scenarios. Play your best incident response activity card against the given attack scenario.
+- [Defensomania](https://github.com/Karneades/Defensomania) - An incident response card game for security monitoring and incident response teams. It consists of over 150 cards, most of them are incident response activities and over 30 attack scenarios. Play your best incident response activity card against the given attack scenario.
 
 ## Threat Modeling
 
