@@ -19,7 +19,7 @@ Security card games help train your skills and enable discussions for various ar
 
 ## Cryptography
 
-- [Crypto Go](https://www.cryptogogame.com/EN) - Crypto Go is an educational card game designed to teach up to date 
+- [Crypto Go](https://www.cryptogogame.com/EN) - An educational card game designed to teach up to date 
   symmetric cryptography.  Crypto Go decks consist of 108 cards, representing modern cryptographic tools.
 - [Crypto Against Humanity](https://github.com/CryptoAgainstHumanity/crypto-against-humanity) - Crypto Against Humanity 
   is a never ending game of Cards Against Humanity, where all participants compete to find the best matches. 
