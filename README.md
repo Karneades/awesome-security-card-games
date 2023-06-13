@@ -24,18 +24,18 @@ Security card games help train your skills and enable discussions for various ar
 
 ## Data Privacy
 
-- [Know your risks](https://aca.edu.au/resources/cyber-sharing-cards/) - Learn what information is safe to share online and understand the risks. Learn about whether to share, not share or be cautious with different pieces of information. Sort as quickly as you can.
+- [Know your risks](https://aca.edu.au/resources/cyber-sharing-cards/) - Learn what information is safe to share online and understand the risks. Learn about whether to share, not share or be cautious with different pieces of information.
 
 ## Incident Response
 
-- [Backdoors & Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/) - An incident response card game, it and contains 52 unique cards to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
+- [Backdoors & Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/) - An incident response card game. It helps you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
 - [Defensomania](https://github.com/Karneades/Defensomania) - An incident response card game for security monitoring and incident response teams to discuss priorities, possible response actions and attack scenarios.
 
 ## Threat Modeling
 
 - [Elevation of Privilege (EOP) by Microsoft](https://web.archive.org/web/20150312215303/http://www.microsoft.com/security/sdl/adopt/eop.aspx) - A card game based on Microsoft's threat modeling framework "STRIDE" (Spoofing, Tampering etc.). The [card deck](https://www.microsoft.com/en-us/download/details.aspx?id=20303) is available as PDF from Microsoft. Adam Shostack, the author of EoP has also a [git repo](https://github.com/adamshostack/eop/) for EoP.
-- [Security Cards](http://securitycards.cs.washington.edu/index.html) - A card game encouraging to think broadly and creatively about computer security threats. Explore with 42 cards along 4 dimensions (suits): Human Impact, Adversary's Motivations, Adversary's Resources, Adversary's Methods.
-- [Cumulus](https://github.com/TNG/cumulus) - A threat modeling card game for the clouds which helps you find threats to your devOps or cloud project and teaches the developers a security oriented mindset.
+- [Security Cards](http://securitycards.cs.washington.edu/index.html) - A card game encouraging to think broadly and creatively about computer security threats. Four dimensions are covered: Human Impact, Adversary's Motivations, Adversary's Resources, Adversary's Methods.
+- [Cumulus](https://github.com/TNG/cumulus) - A threat modeling card game for the clouds which helps you find threats to your DevOps or cloud project and teaches developers a security oriented mindset.
 
 ## Various Resources
 
